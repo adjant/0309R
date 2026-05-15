@@ -1,0 +1,2 @@
+# 0309R
+NOCOIN Miner Agent 0309L
